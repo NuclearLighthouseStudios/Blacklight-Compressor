@@ -1,0 +1,9 @@
+gerber/
+samples/
+sim/
+*-bak
+*.bak
+*-cache
+*.zip
+*.pdf
+*.step
