@@ -12,10 +12,10 @@ This board is designed to be used with my Switchboard Pedal IO PCB which you can
 | Reference   | Quantity | Value  | Description                                          |
 | :---------- | -------: | -----: | :--------------------------------------------------- |
 | C1 C4 C6    | 3        | 100n   | WIMA MKS2 63V                                        |
-| C2 C5       | 2        | 1µ     | WIMA MKS2 63V                                        |
-| C3          | 1        | 470n   | WIMA MKS2 63V                                        |
-| C7          | 1        | 10µ    | Electrolytic Capacitor, 16V                          |
-| C8 C9       | 2        | 47µ    | Electrolytic Capacitor, 16V                          |
+| C2 C5       | 2        | 1µ     | WIMA MKS2 50V                                        |
+| C3          | 1        | 470n   | WIMA MKS2 50V                                        |
+| C7          | 1        | 10µ    | Electrolytic capacitor, 16V                          |
+| C8 C9       | 2        | 47µ    | Electrolytic capacitor, 16V                          |
 | D1 D2       | 2        |        | UV LED 400nm, ~3.2V forward voltage drop             |
 | J1          | 1        |        | Pin Header, 6 pins, 2.54mm spacing                   |
 | J2          | 1        |        | DC Barrel Jack with internal switch                  |
