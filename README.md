@@ -17,6 +17,7 @@ This board is designed to be used with my Switchboard Pedal IO PCB which you can
 | C7          | 1        | 10µ    | Electrolytic capacitor, 16V                          |
 | C8 C9       | 2        | 47µ    | Electrolytic capacitor, 16V                          |
 | D1 D2       | 2        |        | UV LED 400nm, ~3.2V forward voltage drop             |
+|             | 2        |        | 7.5mm LED standoff                                   |
 | J1          | 1        |        | Pin Header, 6 pins, 2.54mm spacing                   |
 | J2          | 1        |        | DC Barrel Jack with internal switch                  |
 | Q1 Q2 Q3 Q4 | 4        | BC547B | 0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92 |
