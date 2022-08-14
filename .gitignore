@@ -1,8 +1,7 @@
-gerber/
+gerbers/
 samples/
 sim/
-*-bak
-*.bak
+*.html
 *-cache
 *.zip
 *.pdf
